@@ -7,7 +7,7 @@ The chatbot for seeking apartments for rent in Moscow
 - send links to facebook posts via the telegram chatbot to people with a matching criteria
 
 ## What we do not do
-We do not collect any personal data. We store your users' search criteria in connection to the chat id. The texts of posts are not stored, except for a mapping of post id to metro and price.
+We do not collect any personal data. We store users' search criteria in connection to the chat id. We do not store any content of the posts except for the mapping of post id to extracted metro and price.
 
 ## The chatbot
 https://t.me/HomeSeekBot
