@@ -2,7 +2,7 @@
 The chatbot for seeking apartments for rent in Moscow
 
 ## What we do
-- read posts about rented apartments in various dedicated facebook groups
+- read posts about rented apartments in dedicated facebook groups
 - filter out irrelevant posts, extract metro station and price
 - send it via telegram chatbot to people with metching criteria
 
